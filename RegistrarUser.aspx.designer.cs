@@ -11,7 +11,7 @@ namespace TPFinalPrograLafon
 {
 
 
-    public partial class Index
+    public partial class RegistrarUser
     {
 
         /// <summary>
